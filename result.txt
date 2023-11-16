@@ -1,0 +1,246 @@
+220 - Aracaju, SE
+221 - Belém, PA
+228 - Florianópolis, SC
+229 - Fortaleza, CE
+231 - João Pessoa, PB
+232 - Macapá, AP
+233 - Maceió, AL
+235 - Natal, RN
+239 - Recife, PE
+241 - Rio de Janeiro, RJ
+242 - Salvador, BA
+243 - São Luís, MA
+246 - Vitória, ES
+267 - Acaraú, CE
+286 - Afuá, PA
+341 - Alcântara, MA
+345 - Alcobaça, BA
+367 - Almeirim, PA
+430 - Amapá, AP
+447 - Amontada, CE
+468 - Anchieta, ES
+486 - Angra dos Reis, RJ
+535 - Aquiraz, CE
+541 - Aracati, CE
+549 - Aracruz, ES
+565 - Araioses, MA
+583 - Araquari, SC
+585 - Araranguá, SC
+593 - Araruama, RJ
+612 - Areia Branca, RN
+628 - Armação de Búzios, RJ
+634 - Arraial do Cabo, RJ
+637 - Arroio do Sal, RS
+666 - Augusto Corrêa, PA
+696 - Baía da Traição, PB
+697 - Baía Formosa, RN
+707 - Balneário Arroio do Silva, SC
+708 - Balneário Barra do Sul, SC
+709 - Balneário Camboriú, SC
+710 - Balneário Gaivota, SC
+711 - Balneário Pinhal, RS
+753 - Barra de Santo Antônio, AL
+756 - Barra de São Miguel, AL
+772 - Barra dos Coqueiros, SE
+776 - Barra Velha, SC
+784 - Barreirinhas, MA
+785 - Barreiros, PE
+794 - Barroquinha, CE
+808 - Beberibe, CE
+827 - Belmonte, BA
+851 - Bertioga, SP
+861 - Biguaçu, SC
+939 - Bombinhas, SC
+1005 - Brejo Grande, SE
+1056 - Cabedelo, PB
+1058 - Cabo de Santo Agostinho, PE
+1059 - Cabo Frio, RJ
+1116 - Caiçara do Norte, RN
+1120 - Cairu, BA
+1131 - Cajueiro da Praia, PI
+1135 - Calçoene, AP
+1146 - Camaçari, BA
+1159 - Camboriú, SC
+1164 - Camocim, CE
+1220 - Campos dos Goytacazes, RJ
+1232 - Cananéia, SP
+1240 - Canavieiras, BA
+1249 - Cândido Mendes, MA
+1279 - Capão da Canoa, RS
+1315 - Caraguatatuba, SP
+1322 - Carapebus, RJ
+1329 - Caravelas, BA
+1378 - Carutapera, MA
+1386 - Cascavel, CE
+1426 - Caucaia, CE
+1433 - Ceará Mirim, RN
+1434 - Cedral, MA
+1486 - Chaves, PA
+1493 - Chuí, RS
+1501 - Cidreira, RS
+1551 - Conceição da Barra, ES
+1576 - Conde, PB
+1577 - Conde, BA
+1652 - Coruripe, AL
+1694 - Cruz, CE
+1739 - Curuçá, PA
+1740 - Cururupu, MA
+1890 - Entre Rios, BA
+1925 - Esplanada, BA
+1928 - Estância, SE
+1951 - Extremoz, RN
+1986 - Feliz Deserto, AL
+1991 - Fernando de Noronha, PE
+2050 - Fortim, CE
+2091 - Galinhos, RN
+2100 - Garopaba, SC
+2134 - Goiana, PE
+2155 - Governador Celso Ramos, SC
+2182 - Grossos, RN
+2198 - Guamaré, RN
+2231 - Guarapari, ES
+2233 - Guaraqueçaba, PR
+2239 - Guaratuba, PR
+2245 - Guarujá, SP
+2253 - Guimarães, MA
+2260 - Gurupá, PA
+2283 - Humberto de Campos, MA
+2338 - Icapuí, CE
+2339 - Içara, SC
+2342 - Icatu, MA
+2359 - Igarassu, PE
+2362 - Igrapiúna, BA
+2367 - Iguape, SP
+2376 - Ilha Comprida, SP
+2380 - Ilhabela, SP
+2381 - Ilhéus, BA
+2388 - Imbé, RS
+2390 - Imbituba, SC
+2449 - Ipojuca, PE
+2507 - Itacaré, BA
+2535 - Itajaí, SC
+2542 - Itamaracá, PE
+2557 - Itanhaém, SP
+2567 - Itaparica, BA
+2574 - Itapema, SC
+2575 - Itapemirim, ES
+2585 - Itapipoca, CE
+2592 - Itapissuma, PE
+2595 - Itapoá, SC
+2601 - Itaporanga dAjuda, SE
+2615 - Itarema, CE
+2646 - Ituberá, BA
+2667 - Jaboatão dos Guararapes, PE
+2705 - Jaguaripe, BA
+2708 - Jaguaruna, SC
+2719 - Jandaíra, BA
+2726 - Japaratinga, AL
+2784 - Jijoca de Jericoacoara, CE
+2917 - Laguna, SC
+2985 - Linhares, ES
+3002 - Lucena, PB
+3007 - Luís Correia, PI
+3008 - Luís Domingues, MA
+3025 - Macaé, RJ
+3033 - Macau, RN
+3089 - Mangaratiba, RJ
+3113 - Maracanã, PA
+3116 - Maragogi, AL
+3122 - Marapanim, PA
+3125 - Marataizes, ES
+3127 - Maraú, BA
+3140 - Marechal Deodoro, AL
+3154 - Maricá, RJ
+3188 - Mata de São João, BA
+3193 - Mataraca, PB
+3205 - Matinhos, PR
+3227 - Maxaranguape, RN
+3314 - Mongaguá, SP
+3392 - Mostardas, RS
+3400 - Mucuri, BA
+3439 - Navegantes, SC
+3456 - Nilo Peçanha, BA
+3463 - Nísia Floresta, RN
+3464 - Niterói, RJ
+3579 - Nova Viçosa, BA
+3620 - Oiapoque, AP
+3633 - Olinda, PE
+3688 - Pacatuba, SE
+3711 - Palhoça, SC
+3716 - Palmares do Sul, RS
+3754 - Paracuru, CE
+3762 - Paraipaba, CE
+3775 - Paranaguá, PR
+3789 - Parati, RJ
+3802 - Paripueira, AL
+3806 - Parnaíba, PI
+3822 - Passo de Camaragibe, AL
+3823 - Passo de Torres, SC
+3850 - Paulino Neves, MA
+3852 - Paulista, PE
+3879 - Pedra Grande, RN
+3920 - Penha, SC
+3939 - Peruíbe, SP
+3947 - Piaçabuçu, AL
+3954 - Piçarras, SC
+4017 - Pirambu, SE
+4048 - Pitimbu, PB
+4051 - Piúma, ES
+4094 - Pontal do Paraná, PR
+4132 - Porto Belo, SC
+4136 - Porto de Pedras, AL
+4137 - Porto do Mangue, RN
+4153 - Porto Rico do Maranhão, MA
+4154 - Porto Seguro, BA
+4174 - Prado, BA
+4178 - Praia Grande, SP
+4220 - Primeira Cruz, MA
+4241 - Quatipuru, PA
+4264 - Quissamã, RJ
+4380 - Rio das Ostras, RJ
+4385 - Rio do Fogo, RN
+4397 - Rio Grande, RS
+4419 - Rio Tinto, PB
+4458 - Roteiro, AL
+4490 - Salinópolis, PA
+4539 - Santa Cruz Cabrália, BA
+4660 - Santa Vitória do Palmar, RS
+4701 - Santo Amaro do Maranhão, MA
+4748 - Santos, SP
+4757 - São Bento do Norte, RN
+4771 - São Caetano de Odivelas, PA
+4813 - São Francisco de Itabapoana, RJ
+4825 - São Francisco do Sul, SC
+4837 - São Gonçalo do Amarante, CE
+4855 - São João da Barra, RJ
+4872 - São João de Pirabas, PA
+4909 - São José, SC
+4913 - São José da Coroa Grande, PE
+4928 - São José de Ribamar, MA
+4949 - São José do Norte, RS
+4993 - São Mateus, ES
+5003 - São Miguel de Touros, RN
+5016 - São Miguel dos Milagres, AL
+5051 - São Sebastião, SP
+5084 - São Vicente, SP
+5098 - Saquarema, RJ
+5132 - Senador Georgino Avelino, RN
+5156 - Serra, ES
+5178 - Serrano do Maranhão, MA
+5226 - Sirinhaém, PE
+5253 - Soure, PA
+5295 - Tamandaré, PE
+5349 - Tavares, RS
+5390 - Tibau, RN
+5391 - Tibau do Sul, RN
+5394 - Tijucas, SC
+5424 - Torres, RS
+5426 - Touros, RN
+5428 - Tracuateua, PA
+5432 - Trairi, CE
+5434 - Tramandaí, RS
+5492 - Turiaçu, MA
+5504 - Tutóia, MA
+5515 - Ubatuba, SP
+5535 - Una, BA
+5561 - Uruçuca, BA
