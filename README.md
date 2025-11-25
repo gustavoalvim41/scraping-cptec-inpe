@@ -23,7 +23,7 @@ Siga as instruções abaixo:
   $ git clone https://github.com/gustavoalvim41/NOME_DO_PROJETO.git
 
   # Acesse a pasta do projeto no terminal/cmd
-  $ cd cptec-inpe
+  $ cd scraping-cptec-inpe
 
   # Instale as dependências
   $ pip install -r requirements.txt
