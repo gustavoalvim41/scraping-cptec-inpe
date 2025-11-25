@@ -1,13 +1,15 @@
-# cptec-inpe
+# Scraping CPTEC/INPE – Busca de Cidades Litorâneas
 
-Este script percorre IDs de cidades do serviço XML do CPTEC/INPE e salva as cidades válidas em um arquivo `result.txt`.
+Este script realiza scraping na API XML do CPTEC/INPE para identificar **cidades litorâneas** que possuem dados de *ondas* disponíveis.  
+O script percorre todos os IDs de cidades e salva apenas as que retornam informações válidas no endpoint de ondas.
 
-## Como funciona
+## O que ele faz
 
-- Faz requisições para cada ID (1 a 5564).
-- Lê o XML retornado.
-- Extrai nome e UF da cidade.
-- Salva no formato: `ID - Nome, UF`.
+- Percorre o intervalo completo de IDs do CPTEC (1 a 5564).
+- Faz requisições para o endpoint:  
+  `http://servicos.cptec.inpe.br/XML/cidade/<id>/dia/0/ondas.xml`
+- Se a API retornar nome e UF válidos, considera a cidade como **litorânea**.
+- Registra cada cidade encontrada no arquivo `result.txt`.
 
 ## 📚 Pré-requisitos
 
