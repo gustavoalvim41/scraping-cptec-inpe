@@ -20,7 +20,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Siga as instruções abaixo:
 ```bash
   # Clone este repositório
-  $ git clone https://github.com/gustavoalvim41/NOME_DO_PROJETO.git
+  $ git clone https://github.com/gustavoalvim41/scraping-cptec-inpe.git
 
   # Acesse a pasta do projeto no terminal/cmd
   $ cd scraping-cptec-inpe
